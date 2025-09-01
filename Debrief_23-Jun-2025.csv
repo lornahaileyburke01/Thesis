@@ -1,0 +1,1189 @@
+TaskName,ParticipantPublicID,ParticipantPrivateID,QuestionKey,Response,cond
+Debrief long,FF_10_a,11416019,incontro,1,isot
+Debrief long,FF_10_a,11416019,Difficoltà,2,isot
+Debrief long,FF_10_a,11416019,Divertimento,3,isot
+Debrief long,FF_10_a,11416019,feedback-1,9,isot
+Debrief long,FF_10_a,11416019,feedback-2,4,isot
+Debrief long,FF_10_a,11416019,imbarazzo,2,isot
+Debrief long,FF_10_a,11416019,Istruzioni,7,isot
+Debrief long,FF_10_a,11416019,sincronia,5,isot
+Debrief long,FF_10_a,11416019,gradimento,4,isot
+Debrief long,FF_10_a,11416019,listenmusic per day-quantised,3,isot
+Debrief long,FF_10_a,11416019,yearTrainingInstrument-quantised,4,isot
+Debrief long,FF_10_b,11416020,incontro,1,isot
+Debrief long,FF_10_b,11416020,Difficoltà,1,isot
+Debrief long,FF_10_b,11416020,Divertimento,7,isot
+Debrief long,FF_10_b,11416020,feedback-1,10,isot
+Debrief long,FF_10_b,11416020,feedback-2,6,isot
+Debrief long,FF_10_b,11416020,imbarazzo,1,isot
+Debrief long,FF_10_b,11416020,Istruzioni,7,isot
+Debrief long,FF_10_b,11416020,sincronia,5,isot
+Debrief long,FF_10_b,11416020,gradimento,7,isot
+Debrief long,FF_10_b,11416020,listenmusic per day-quantised,2,isot
+Debrief long,FF_10_b,11416020,yearTrainingInstrument-quantised,1,isot
+Debrief long,FF_11_a,11416021,incontro,1,silent
+Debrief long,FF_11_a,11416021,Difficoltà,4,silent
+Debrief long,FF_11_a,11416021,Divertimento,1,silent
+Debrief long,FF_11_a,11416021,feedback-1,10,silent
+Debrief long,FF_11_a,11416021,feedback-2,1,silent
+Debrief long,FF_11_a,11416021,imbarazzo,1,silent
+Debrief long,FF_11_a,11416021,Istruzioni,4,silent
+Debrief long,FF_11_a,11416021,sincronia,3,silent
+Debrief long,FF_11_a,11416021,gradimento,4,silent
+Debrief long,FF_11_a,11416021,listenmusic per day-quantised,5,silent
+Debrief long,FF_11_a,11416021,yearTrainingInstrument-quantised,1,silent
+Debrief long,FF_11_b,11416022,incontro,1,silent
+Debrief long,FF_11_b,11416022,Difficoltà,4,silent
+Debrief long,FF_11_b,11416022,Divertimento,5,silent
+Debrief long,FF_11_b,11416022,feedback-1,9,silent
+Debrief long,FF_11_b,11416022,feedback-2,3,silent
+Debrief long,FF_11_b,11416022,imbarazzo,2,silent
+Debrief long,FF_11_b,11416022,Istruzioni,6,silent
+Debrief long,FF_11_b,11416022,sincronia,5,silent
+Debrief long,FF_11_b,11416022,gradimento,6,silent
+Debrief long,FF_11_b,11416022,listenmusic per day-quantised,5,silent
+Debrief long,FF_11_b,11416022,yearTrainingInstrument-quantised,3,silent
+Debrief long,FF_12_a,11416023,incontro,2,isot
+Debrief long,FF_12_a,11416023,Difficoltà,3,isot
+Debrief long,FF_12_a,11416023,Divertimento,5,isot
+Debrief long,FF_12_a,11416023,feedback-1,9,isot
+Debrief long,FF_12_a,11416023,feedback-2,7,isot
+Debrief long,FF_12_a,11416023,imbarazzo,2,isot
+Debrief long,FF_12_a,11416023,Istruzioni,6,isot
+Debrief long,FF_12_a,11416023,sincronia,4,isot
+Debrief long,FF_12_a,11416023,gradimento,6,isot
+Debrief long,FF_12_a,11416023,listenmusic per day-quantised,3,isot
+Debrief long,FF_12_a,11416023,yearTrainingInstrument-quantised,5,isot
+Debrief long,FF_12_b,11416024,incontro,1,isot
+Debrief long,FF_12_b,11416024,Difficoltà,3,isot
+Debrief long,FF_12_b,11416024,Divertimento,4,isot
+Debrief long,FF_12_b,11416024,feedback-1,10,isot
+Debrief long,FF_12_b,11416024,feedback-2,2,isot
+Debrief long,FF_12_b,11416024,imbarazzo,2,isot
+Debrief long,FF_12_b,11416024,Istruzioni,6,isot
+Debrief long,FF_12_b,11416024,sincronia,5,isot
+Debrief long,FF_12_b,11416024,gradimento,6,isot
+Debrief long,FF_12_b,11416024,listenmusic per day-quantised,7,isot
+Debrief long,FF_12_b,11416024,yearTrainingInstrument-quantised,1,isot
+Debrief long,FF_13_a,11416025,incontro,1,mus
+Debrief long,FF_13_a,11416025,Difficoltà,1,mus
+Debrief long,FF_13_a,11416025,Divertimento,5,mus
+Debrief long,FF_13_a,11416025,feedback-1,7,mus
+Debrief long,FF_13_a,11416025,feedback-2,10,mus
+Debrief long,FF_13_a,11416025,imbarazzo,2,mus
+Debrief long,FF_13_a,11416025,Istruzioni,7,mus
+Debrief long,FF_13_a,11416025,sincronia,6,mus
+Debrief long,FF_13_a,11416025,gradimento,7,mus
+Debrief long,FF_13_a,11416025,listenmusic per day-quantised,6,mus
+Debrief long,FF_13_a,11416025,yearTrainingInstrument-quantised,4,mus
+Debrief long,FF_13_b,11416026,incontro,1,mus
+Debrief long,FF_13_b,11416026,Difficoltà,4,mus
+Debrief long,FF_13_b,11416026,Divertimento,7,mus
+Debrief long,FF_13_b,11416026,feedback-1,10,mus
+Debrief long,FF_13_b,11416026,feedback-2,10,mus
+Debrief long,FF_13_b,11416026,imbarazzo,3,mus
+Debrief long,FF_13_b,11416026,Istruzioni,7,mus
+Debrief long,FF_13_b,11416026,sincronia,5,mus
+Debrief long,FF_13_b,11416026,gradimento,7,mus
+Debrief long,FF_13_b,11416026,listenmusic per day-quantised,2,mus
+Debrief long,FF_13_b,11416026,yearTrainingInstrument-quantised,4,mus
+Debrief long,FF_14_a,11997325,incontro,4,silent
+Debrief long,FF_14_a,11997325,Difficoltà,1,silent
+Debrief long,FF_14_a,11997325,Divertimento,7,silent
+Debrief long,FF_14_a,11997325,feedback-1,10,silent
+Debrief long,FF_14_a,11997325,feedback-2,2,silent
+Debrief long,FF_14_a,11997325,imbarazzo,1,silent
+Debrief long,FF_14_a,11997325,Istruzioni,6,silent
+Debrief long,FF_14_a,11997325,sincronia,5,silent
+Debrief long,FF_14_a,11997325,gradimento,7,silent
+Debrief long,FF_14_a,11997325,listenmusic per day-quantised,1,silent
+Debrief long,FF_14_a,11997325,yearTrainingInstrument-quantised,1,silent
+Debrief long,FF_14_b,11997324,incontro,2,silent
+Debrief long,FF_14_b,11997324,Difficoltà,1,silent
+Debrief long,FF_14_b,11997324,Divertimento,5,silent
+Debrief long,FF_14_b,11997324,feedback-1,10,silent
+Debrief long,FF_14_b,11997324,feedback-2,9,silent
+Debrief long,FF_14_b,11997324,imbarazzo,2,silent
+Debrief long,FF_14_b,11997324,Istruzioni,5,silent
+Debrief long,FF_14_b,11997324,sincronia,4,silent
+Debrief long,FF_14_b,11997324,gradimento,6,silent
+Debrief long,FF_14_b,11997324,listenmusic per day-quantised,4,silent
+Debrief long,FF_14_b,11997324,yearTrainingInstrument-quantised,1,silent
+Debrief long,FF_15_a,11416029,incontro,1,mus
+Debrief long,FF_15_a,11416029,Difficoltà,2,mus
+Debrief long,FF_15_a,11416029,Divertimento,5,mus
+Debrief long,FF_15_a,11416029,feedback-1,10,mus
+Debrief long,FF_15_a,11416029,feedback-2,7,mus
+Debrief long,FF_15_a,11416029,imbarazzo,1,mus
+Debrief long,FF_15_a,11416029,Istruzioni,7,mus
+Debrief long,FF_15_a,11416029,sincronia,6,mus
+Debrief long,FF_15_a,11416029,gradimento,7,mus
+Debrief long,FF_15_a,11416029,listenmusic per day-quantised,6,mus
+Debrief long,FF_15_a,11416029,yearTrainingInstrument-quantised,1,mus
+Debrief long,FF_15_b,11997120,incontro,1,mus
+Debrief long,FF_15_b,11997120,Difficoltà,2,mus
+Debrief long,FF_15_b,11997120,Divertimento,3,mus
+Debrief long,FF_15_b,11997120,feedback-1,10,mus
+Debrief long,FF_15_b,11997120,feedback-2,3,mus
+Debrief long,FF_15_b,11997120,imbarazzo,3,mus
+Debrief long,FF_15_b,11997120,Istruzioni,4,mus
+Debrief long,FF_15_b,11997120,sincronia,4,mus
+Debrief long,FF_15_b,11997120,gradimento,3,mus
+Debrief long,FF_15_b,11997120,listenmusic per day-quantised,2,mus
+Debrief long,FF_15_b,11997120,yearTrainingInstrument-quantised,2,mus
+Debrief long,FF_16_a,12045469,incontro,1,silent
+Debrief long,FF_16_a,12045469,Difficoltà,1,silent
+Debrief long,FF_16_a,12045469,Divertimento,4,silent
+Debrief long,FF_16_a,12045469,feedback-1,10,silent
+Debrief long,FF_16_a,12045469,feedback-2,10,silent
+Debrief long,FF_16_a,12045469,imbarazzo,2,silent
+Debrief long,FF_16_a,12045469,Istruzioni,7,silent
+Debrief long,FF_16_a,12045469,sincronia,7,silent
+Debrief long,FF_16_a,12045469,gradimento,7,silent
+Debrief long,FF_16_a,12045469,listenmusic per day-quantised,6,silent
+Debrief long,FF_16_a,12045469,yearTrainingInstrument-quantised,4,silent
+Debrief long,FF_16_b,12045488,incontro,1,silent
+Debrief long,FF_16_b,12045488,Difficoltà,4,silent
+Debrief long,FF_16_b,12045488,Divertimento,4,silent
+Debrief long,FF_16_b,12045488,feedback-1,9,silent
+Debrief long,FF_16_b,12045488,feedback-2,3,silent
+Debrief long,FF_16_b,12045488,imbarazzo,2,silent
+Debrief long,FF_16_b,12045488,Istruzioni,6,silent
+Debrief long,FF_16_b,12045488,sincronia,4,silent
+Debrief long,FF_16_b,12045488,gradimento,6,silent
+Debrief long,FF_16_b,12045488,listenmusic per day-quantised,1,silent
+Debrief long,FF_16_b,12045488,yearTrainingInstrument-quantised,1,silent
+Debrief long,FF_17_a,12045470,incontro,1,isot
+Debrief long,FF_17_a,12045470,Difficoltà,3,isot
+Debrief long,FF_17_a,12045470,Divertimento,6,isot
+Debrief long,FF_17_a,12045470,feedback-1,9,isot
+Debrief long,FF_17_a,12045470,feedback-2,7,isot
+Debrief long,FF_17_a,12045470,imbarazzo,1,isot
+Debrief long,FF_17_a,12045470,Istruzioni,2,isot
+Debrief long,FF_17_a,12045470,sincronia,6,isot
+Debrief long,FF_17_a,12045470,gradimento,7,isot
+Debrief long,FF_17_a,12045470,listenmusic per day-quantised,5,isot
+Debrief long,FF_17_a,12045470,yearTrainingInstrument-quantised,1,isot
+Debrief long,FF_17_b,12045489,incontro,1,isot
+Debrief long,FF_17_b,12045489,Difficoltà,1,isot
+Debrief long,FF_17_b,12045489,Divertimento,5,isot
+Debrief long,FF_17_b,12045489,feedback-1,10,isot
+Debrief long,FF_17_b,12045489,feedback-2,1,isot
+Debrief long,FF_17_b,12045489,imbarazzo,2,isot
+Debrief long,FF_17_b,12045489,Istruzioni,4,isot
+Debrief long,FF_17_b,12045489,sincronia,5,isot
+Debrief long,FF_17_b,12045489,gradimento,6,isot
+Debrief long,FF_17_b,12045489,listenmusic per day-quantised,7,isot
+Debrief long,FF_17_b,12045489,yearTrainingInstrument-quantised,4,isot
+Debrief long,FF_18_a,12045471,incontro,1,isot
+Debrief long,FF_18_a,12045471,Difficoltà,7,isot
+Debrief long,FF_18_a,12045471,Divertimento,7,isot
+Debrief long,FF_18_a,12045471,feedback-1,10,isot
+Debrief long,FF_18_a,12045471,feedback-2,8,isot
+Debrief long,FF_18_a,12045471,imbarazzo,1,isot
+Debrief long,FF_18_a,12045471,Istruzioni,6,isot
+Debrief long,FF_18_a,12045471,sincronia,5,isot
+Debrief long,FF_18_a,12045471,gradimento,7,isot
+Debrief long,FF_18_a,12045471,listenmusic per day-quantised,1,isot
+Debrief long,FF_18_a,12045471,yearTrainingInstrument-quantised,1,isot
+Debrief long,FF_18_b,12045490,incontro,1,isot
+Debrief long,FF_18_b,12045490,Difficoltà,1,isot
+Debrief long,FF_18_b,12045490,Divertimento,6,isot
+Debrief long,FF_18_b,12045490,feedback-1,5,isot
+Debrief long,FF_18_b,12045490,feedback-2,9,isot
+Debrief long,FF_18_b,12045490,imbarazzo,1,isot
+Debrief long,FF_18_b,12045490,Istruzioni,6,isot
+Debrief long,FF_18_b,12045490,sincronia,4,isot
+Debrief long,FF_18_b,12045490,gradimento,7,isot
+Debrief long,FF_18_b,12045490,listenmusic per day-quantised,5,isot
+Debrief long,FF_18_b,12045490,yearTrainingInstrument-quantised,1,isot
+Debrief long,FF_1_a,11416017,incontro,1,mus
+Debrief long,FF_1_a,11416017,Difficoltà,1,mus
+Debrief long,FF_1_a,11416017,Divertimento,2,mus
+Debrief long,FF_1_a,11416017,feedback-1,8,mus
+Debrief long,FF_1_a,11416017,feedback-2,8,mus
+Debrief long,FF_1_a,11416017,imbarazzo,3,mus
+Debrief long,FF_1_a,11416017,Istruzioni,3,mus
+Debrief long,FF_1_a,11416017,sincronia,2,mus
+Debrief long,FF_1_a,11416017,gradimento,4,mus
+Debrief long,FF_1_a,11416017,listenmusic per day-quantised,6,mus
+Debrief long,FF_1_a,11416017,yearTrainingInstrument-quantised,3,mus
+Debrief long,FF_1_b,11416018,incontro,1,mus
+Debrief long,FF_1_b,11416018,Difficoltà,1,mus
+Debrief long,FF_1_b,11416018,Divertimento,4,mus
+Debrief long,FF_1_b,11416018,feedback-1,10,mus
+Debrief long,FF_1_b,11416018,feedback-2,1,mus
+Debrief long,FF_1_b,11416018,imbarazzo,1,mus
+Debrief long,FF_1_b,11416018,Istruzioni,6,mus
+Debrief long,FF_1_b,11416018,sincronia,5,mus
+Debrief long,FF_1_b,11416018,gradimento,6,mus
+Debrief long,FF_1_b,11416018,listenmusic per day-quantised,2,mus
+Debrief long,FF_1_b,11416018,yearTrainingInstrument-quantised,1,mus
+Debrief long,FF_2_a,11416031,incontro,1,silent
+Debrief long,FF_2_a,11416031,Difficoltà,1,silent
+Debrief long,FF_2_a,11416031,Divertimento,7,silent
+Debrief long,FF_2_a,11416031,feedback-1,10,silent
+Debrief long,FF_2_a,11416031,feedback-2,2,silent
+Debrief long,FF_2_a,11416031,imbarazzo,1,silent
+Debrief long,FF_2_a,11416031,Istruzioni,5,silent
+Debrief long,FF_2_a,11416031,sincronia,5,silent
+Debrief long,FF_2_a,11416031,gradimento,7,silent
+Debrief long,FF_2_a,11416031,listenmusic per day-quantised,2,silent
+Debrief long,FF_2_a,11416031,yearTrainingInstrument-quantised,3,silent
+Debrief long,FF_2_b,11416032,incontro,1,silent
+Debrief long,FF_2_b,11416032,Difficoltà,1,silent
+Debrief long,FF_2_b,11416032,Divertimento,4,silent
+Debrief long,FF_2_b,11416032,feedback-1,10,silent
+Debrief long,FF_2_b,11416032,feedback-2,1,silent
+Debrief long,FF_2_b,11416032,imbarazzo,1,silent
+Debrief long,FF_2_b,11416032,Istruzioni,7,silent
+Debrief long,FF_2_b,11416032,sincronia,5,silent
+Debrief long,FF_2_b,11416032,gradimento,5,silent
+Debrief long,FF_2_b,11416032,listenmusic per day-quantised,6,silent
+Debrief long,FF_2_b,11416032,yearTrainingInstrument-quantised,5,silent
+Debrief long,FF_3_a,11416033,incontro,1,mus
+Debrief long,FF_3_a,11416033,Difficoltà,2,mus
+Debrief long,FF_3_a,11416033,Divertimento,5,mus
+Debrief long,FF_3_a,11416033,feedback-1,10,mus
+Debrief long,FF_3_a,11416033,feedback-2,7,mus
+Debrief long,FF_3_a,11416033,imbarazzo,2,mus
+Debrief long,FF_3_a,11416033,Istruzioni,6,mus
+Debrief long,FF_3_a,11416033,sincronia,5,mus
+Debrief long,FF_3_a,11416033,gradimento,7,mus
+Debrief long,FF_3_a,11416033,listenmusic per day-quantised,5,mus
+Debrief long,FF_3_a,11416033,yearTrainingInstrument-quantised,5,mus
+Debrief long,FF_3_b,11416034,incontro,1,mus
+Debrief long,FF_3_b,11416034,Difficoltà,3,mus
+Debrief long,FF_3_b,11416034,Divertimento,6,mus
+Debrief long,FF_3_b,11416034,feedback-1,7,mus
+Debrief long,FF_3_b,11416034,feedback-2,9,mus
+Debrief long,FF_3_b,11416034,imbarazzo,7,mus
+Debrief long,FF_3_b,11416034,Istruzioni,5,mus
+Debrief long,FF_3_b,11416034,sincronia,5,mus
+Debrief long,FF_3_b,11416034,gradimento,5,mus
+Debrief long,FF_3_b,11416034,listenmusic per day-quantised,2,mus
+Debrief long,FF_3_b,11416034,yearTrainingInstrument-quantised,1,mus
+Debrief long,FF_4_a,11416035,incontro,1,silent
+Debrief long,FF_4_a,11416035,Difficoltà,4,silent
+Debrief long,FF_4_a,11416035,Divertimento,5,silent
+Debrief long,FF_4_a,11416035,feedback-1,10,silent
+Debrief long,FF_4_a,11416035,feedback-2,1,silent
+Debrief long,FF_4_a,11416035,imbarazzo,2,silent
+Debrief long,FF_4_a,11416035,Istruzioni,5,silent
+Debrief long,FF_4_a,11416035,sincronia,5,silent
+Debrief long,FF_4_a,11416035,gradimento,6,silent
+Debrief long,FF_4_a,11416035,listenmusic per day-quantised,2,silent
+Debrief long,FF_4_a,11416035,yearTrainingInstrument-quantised,3,silent
+Debrief long,FF_4_b,11416037,incontro,1,silent
+Debrief long,FF_4_b,11416037,Difficoltà,1,silent
+Debrief long,FF_4_b,11416037,Divertimento,5,silent
+Debrief long,FF_4_b,11416037,feedback-1,9,silent
+Debrief long,FF_4_b,11416037,feedback-2,9,silent
+Debrief long,FF_4_b,11416037,imbarazzo,1,silent
+Debrief long,FF_4_b,11416037,Istruzioni,7,silent
+Debrief long,FF_4_b,11416037,sincronia,6,silent
+Debrief long,FF_4_b,11416037,gradimento,7,silent
+Debrief long,FF_4_b,11416037,listenmusic per day-quantised,1,silent
+Debrief long,FF_4_b,11416037,yearTrainingInstrument-quantised,4,silent
+Debrief long (EN),FF_5_a,11403239,meeting,7,mus
+Debrief long (EN),FF_5_a,11403239,difficulty,4,mus
+Debrief long (EN),FF_5_a,11403239,fun,3,mus
+Debrief long (EN),FF_5_a,11403239,feedback-1,9,mus
+Debrief long (EN),FF_5_a,11403239,feedback-2,10,mus
+Debrief long (EN),FF_5_a,11403239,embarassment,1,mus
+Debrief long (EN),FF_5_a,11403239,instructions,5,mus
+Debrief long (EN),FF_5_a,11403239,synch,6,mus
+Debrief long (EN),FF_5_a,11403239,enjoyment,7,mus
+Debrief long (EN),FF_5_a,11403239,listenmusic per day-quantised,3,mus
+Debrief long (EN),FF_5_a,11403239,yearTrainingInstrument-quantised,1,mus
+Debrief long (EN),FF_5_b,11403240,meeting,1,mus
+Debrief long (EN),FF_5_b,11403240,difficulty,1,mus
+Debrief long (EN),FF_5_b,11403240,fun,3,mus
+Debrief long (EN),FF_5_b,11403240,feedback-1,9,mus
+Debrief long (EN),FF_5_b,11403240,feedback-2,6,mus
+Debrief long (EN),FF_5_b,11403240,embarassment,1,mus
+Debrief long (EN),FF_5_b,11403240,instructions,7,mus
+Debrief long (EN),FF_5_b,11403240,synch,5,mus
+Debrief long (EN),FF_5_b,11403240,enjoyment,4,mus
+Debrief long (EN),FF_5_b,11403240,listenmusic per day-quantised,5,mus
+Debrief long (EN),FF_5_b,11403240,yearTrainingInstrument-quantised,1,mus
+Debrief long,FF_6_a,11416040,incontro,1,isot
+Debrief long,FF_6_a,11416040,Difficoltà,5,isot
+Debrief long,FF_6_a,11416040,Divertimento,6,isot
+Debrief long,FF_6_a,11416040,feedback-1,10,isot
+Debrief long,FF_6_a,11416040,feedback-2,1,isot
+Debrief long,FF_6_a,11416040,imbarazzo,1,isot
+Debrief long,FF_6_a,11416040,Istruzioni,6,isot
+Debrief long,FF_6_a,11416040,sincronia,3,isot
+Debrief long,FF_6_a,11416040,gradimento,7,isot
+Debrief long,FF_6_a,11416040,listenmusic per day-quantised,1,isot
+Debrief long,FF_6_a,11416040,yearTrainingInstrument-quantised,1,isot
+Debrief long,FF_6_b,11416041,incontro,3,isot
+Debrief long,FF_6_b,11416041,Difficoltà,2,isot
+Debrief long,FF_6_b,11416041,Divertimento,6,isot
+Debrief long,FF_6_b,11416041,feedback-1,10,isot
+Debrief long,FF_6_b,11416041,feedback-2,10,isot
+Debrief long,FF_6_b,11416041,imbarazzo,3,isot
+Debrief long,FF_6_b,11416041,Istruzioni,6,isot
+Debrief long,FF_6_b,11416041,sincronia,5,isot
+Debrief long,FF_6_b,11416041,gradimento,6,isot
+Debrief long,FF_6_b,11416041,listenmusic per day-quantised,2,isot
+Debrief long,FF_6_b,11416041,yearTrainingInstrument-quantised,3,isot
+Debrief long,FF_7_a,11416042,incontro,1,isot
+Debrief long,FF_7_a,11416042,Difficoltà,2,isot
+Debrief long,FF_7_a,11416042,Divertimento,4,isot
+Debrief long,FF_7_a,11416042,feedback-1,10,isot
+Debrief long,FF_7_a,11416042,feedback-2,9,isot
+Debrief long,FF_7_a,11416042,imbarazzo,1,isot
+Debrief long,FF_7_a,11416042,Istruzioni,7,isot
+Debrief long,FF_7_a,11416042,sincronia,5,isot
+Debrief long,FF_7_a,11416042,gradimento,6,isot
+Debrief long,FF_7_a,11416042,listenmusic per day-quantised,3,isot
+Debrief long,FF_7_a,11416042,yearTrainingInstrument-quantised,4,isot
+Debrief long,FF_7_b,11416043,incontro,1,isot
+Debrief long,FF_7_b,11416043,Difficoltà,2,isot
+Debrief long,FF_7_b,11416043,Divertimento,1,isot
+Debrief long,FF_7_b,11416043,feedback-1,10,isot
+Debrief long,FF_7_b,11416043,feedback-2,4,isot
+Debrief long,FF_7_b,11416043,imbarazzo,2,isot
+Debrief long,FF_7_b,11416043,Istruzioni,7,isot
+Debrief long,FF_7_b,11416043,sincronia,2,isot
+Debrief long,FF_7_b,11416043,gradimento,3,isot
+Debrief long,FF_7_b,11416043,listenmusic per day-quantised,6,isot
+Debrief long,FF_7_b,11416043,yearTrainingInstrument-quantised,1,isot
+Debrief long,FF_8_a,11416044,incontro,1,mus
+Debrief long,FF_8_a,11416044,Difficoltà,5,mus
+Debrief long,FF_8_a,11416044,Divertimento,7,mus
+Debrief long,FF_8_a,11416044,feedback-1,10,mus
+Debrief long,FF_8_a,11416044,feedback-2,5,mus
+Debrief long,FF_8_a,11416044,imbarazzo,1,mus
+Debrief long,FF_8_a,11416044,Istruzioni,7,mus
+Debrief long,FF_8_a,11416044,sincronia,6,mus
+Debrief long,FF_8_a,11416044,gradimento,7,mus
+Debrief long,FF_8_a,11416044,listenmusic per day-quantised,5,mus
+Debrief long,FF_8_a,11416044,yearTrainingInstrument-quantised,3,mus
+Debrief long,FF_8_b,11416045,incontro,1,mus
+Debrief long,FF_8_b,11416045,Difficoltà,3,mus
+Debrief long,FF_8_b,11416045,Divertimento,5,mus
+Debrief long,FF_8_b,11416045,feedback-1,9,mus
+Debrief long,FF_8_b,11416045,feedback-2,8,mus
+Debrief long,FF_8_b,11416045,imbarazzo,2,mus
+Debrief long,FF_8_b,11416045,Istruzioni,6,mus
+Debrief long,FF_8_b,11416045,sincronia,5,mus
+Debrief long,FF_8_b,11416045,gradimento,6,mus
+Debrief long,FF_8_b,11416045,listenmusic per day-quantised,5,mus
+Debrief long,FF_8_b,11416045,yearTrainingInstrument-quantised,1,mus
+Debrief long,FF_9_a,11416046,incontro,1,silent
+Debrief long,FF_9_a,11416046,Difficoltà,1,silent
+Debrief long,FF_9_a,11416046,Divertimento,3,silent
+Debrief long,FF_9_a,11416046,feedback-1,10,silent
+Debrief long,FF_9_a,11416046,feedback-2,6,silent
+Debrief long,FF_9_a,11416046,imbarazzo,1,silent
+Debrief long,FF_9_a,11416046,Istruzioni,7,silent
+Debrief long,FF_9_a,11416046,sincronia,5,silent
+Debrief long,FF_9_a,11416046,gradimento,7,silent
+Debrief long,FF_9_a,11416046,listenmusic per day-quantised,2,silent
+Debrief long,FF_9_a,11416046,yearTrainingInstrument-quantised,4,silent
+Debrief long,FF_9_b,11416047,incontro,1,silent
+Debrief long,FF_9_b,11416047,Difficoltà,1,silent
+Debrief long,FF_9_b,11416047,Divertimento,6,silent
+Debrief long,FF_9_b,11416047,feedback-1,9,silent
+Debrief long,FF_9_b,11416047,feedback-2,1,silent
+Debrief long,FF_9_b,11416047,imbarazzo,2,silent
+Debrief long,FF_9_b,11416047,Istruzioni,7,silent
+Debrief long,FF_9_b,11416047,sincronia,6,silent
+Debrief long,FF_9_b,11416047,gradimento,7,silent
+Debrief long,FF_9_b,11416047,listenmusic per day-quantised,1,silent
+Debrief long,FF_9_b,11416047,yearTrainingInstrument-quantised,1,silent
+Debrief long,FM_10_a,11416050,incontro,1,isot
+Debrief long,FM_10_a,11416050,Difficoltà,1,isot
+Debrief long,FM_10_a,11416050,Divertimento,5,isot
+Debrief long,FM_10_a,11416050,feedback-1,10,isot
+Debrief long,FM_10_a,11416050,feedback-2,4,isot
+Debrief long,FM_10_a,11416050,imbarazzo,1,isot
+Debrief long,FM_10_a,11416050,Istruzioni,7,isot
+Debrief long,FM_10_a,11416050,sincronia,6,isot
+Debrief long,FM_10_a,11416050,gradimento,7,isot
+Debrief long,FM_10_a,11416050,listenmusic per day-quantised,3,isot
+Debrief long,FM_10_a,11416050,yearTrainingInstrument-quantised,1,isot
+Debrief long,FM_10_b,11416051,incontro,1,isot
+Debrief long,FM_10_b,11416051,Difficoltà,4,isot
+Debrief long,FM_10_b,11416051,Divertimento,5,isot
+Debrief long,FM_10_b,11416051,feedback-1,10,isot
+Debrief long,FM_10_b,11416051,feedback-2,3,isot
+Debrief long,FM_10_b,11416051,imbarazzo,1,isot
+Debrief long,FM_10_b,11416051,Istruzioni,7,isot
+Debrief long,FM_10_b,11416051,sincronia,4,isot
+Debrief long,FM_10_b,11416051,gradimento,7,isot
+Debrief long,FM_10_b,11416051,listenmusic per day-quantised,2,isot
+Debrief long,FM_10_b,11416051,yearTrainingInstrument-quantised,3,isot
+Debrief long,FM_11_a,11416052,incontro,1,silent
+Debrief long,FM_11_a,11416052,Difficoltà,1,silent
+Debrief long,FM_11_a,11416052,Divertimento,3,silent
+Debrief long,FM_11_a,11416052,feedback-1,5,silent
+Debrief long,FM_11_a,11416052,feedback-2,5,silent
+Debrief long,FM_11_a,11416052,imbarazzo,1,silent
+Debrief long,FM_11_a,11416052,Istruzioni,7,silent
+Debrief long,FM_11_a,11416052,sincronia,6,silent
+Debrief long,FM_11_a,11416052,gradimento,5,silent
+Debrief long,FM_11_a,11416052,listenmusic per day-quantised,5,silent
+Debrief long,FM_11_a,11416052,yearTrainingInstrument-quantised,1,silent
+Debrief long,FM_11_b,11416053,incontro,1,silent
+Debrief long,FM_11_b,11416053,Difficoltà,7,silent
+Debrief long,FM_11_b,11416053,Divertimento,6,silent
+Debrief long,FM_11_b,11416053,feedback-1,10,silent
+Debrief long,FM_11_b,11416053,feedback-2,7,silent
+Debrief long,FM_11_b,11416053,imbarazzo,2,silent
+Debrief long,FM_11_b,11416053,Istruzioni,7,silent
+Debrief long,FM_11_b,11416053,sincronia,6,silent
+Debrief long,FM_11_b,11416053,gradimento,6,silent
+Debrief long,FM_11_b,11416053,listenmusic per day-quantised,3,silent
+Debrief long,FM_11_b,11416053,yearTrainingInstrument-quantised,1,silent
+Debrief long,FM_12_a,11416054,incontro,1,isot
+Debrief long,FM_12_a,11416054,Difficoltà,2,isot
+Debrief long,FM_12_a,11416054,Divertimento,5,isot
+Debrief long,FM_12_a,11416054,feedback-1,10,isot
+Debrief long,FM_12_a,11416054,feedback-2,1,isot
+Debrief long,FM_12_a,11416054,imbarazzo,4,isot
+Debrief long,FM_12_a,11416054,Istruzioni,5,isot
+Debrief long,FM_12_a,11416054,sincronia,3,isot
+Debrief long,FM_12_a,11416054,gradimento,3,isot
+Debrief long,FM_12_a,11416054,listenmusic per day-quantised,3,isot
+Debrief long,FM_12_a,11416054,yearTrainingInstrument-quantised,1,isot
+Debrief long,FM_12_b,11416055,incontro,1,isot
+Debrief long,FM_12_b,11416055,Difficoltà,3,isot
+Debrief long,FM_12_b,11416055,Divertimento,6,isot
+Debrief long,FM_12_b,11416055,feedback-1,9,isot
+Debrief long,FM_12_b,11416055,feedback-2,10,isot
+Debrief long,FM_12_b,11416055,imbarazzo,4,isot
+Debrief long,FM_12_b,11416055,Istruzioni,4,isot
+Debrief long,FM_12_b,11416055,sincronia,4,isot
+Debrief long,FM_12_b,11416055,gradimento,7,isot
+Debrief long,FM_12_b,11416055,listenmusic per day-quantised,2,isot
+Debrief long,FM_12_b,11416055,yearTrainingInstrument-quantised,1,isot
+Debrief long,FM_13_a,11416056,incontro,1,mus
+Debrief long,FM_13_a,11416056,Difficoltà,1,mus
+Debrief long,FM_13_a,11416056,Divertimento,2,mus
+Debrief long,FM_13_a,11416056,feedback-1,8,mus
+Debrief long,FM_13_a,11416056,feedback-2,5,mus
+Debrief long,FM_13_a,11416056,imbarazzo,3,mus
+Debrief long,FM_13_a,11416056,Istruzioni,4,mus
+Debrief long,FM_13_a,11416056,sincronia,4,mus
+Debrief long,FM_13_a,11416056,gradimento,4,mus
+Debrief long,FM_13_a,11416056,listenmusic per day-quantised,1,mus
+Debrief long,FM_13_a,11416056,yearTrainingInstrument-quantised,3,mus
+Debrief long,FM_13_b,11416057,incontro,1,mus
+Debrief long,FM_13_b,11416057,Difficoltà,3,mus
+Debrief long,FM_13_b,11416057,Divertimento,3,mus
+Debrief long,FM_13_b,11416057,feedback-1,4,mus
+Debrief long,FM_13_b,11416057,feedback-2,4,mus
+Debrief long,FM_13_b,11416057,imbarazzo,1,mus
+Debrief long,FM_13_b,11416057,Istruzioni,7,mus
+Debrief long,FM_13_b,11416057,sincronia,5,mus
+Debrief long,FM_13_b,11416057,gradimento,3,mus
+Debrief long,FM_13_b,11416057,listenmusic per day-quantised,3,mus
+Debrief long,FM_13_b,11416057,yearTrainingInstrument-quantised,3,mus
+Debrief long,FM_14_a,11416058,incontro,1,silent
+Debrief long,FM_14_a,11416058,Difficoltà,5,silent
+Debrief long,FM_14_a,11416058,Divertimento,5,silent
+Debrief long,FM_14_a,11416058,feedback-1,10,silent
+Debrief long,FM_14_a,11416058,feedback-2,2,silent
+Debrief long,FM_14_a,11416058,imbarazzo,3,silent
+Debrief long,FM_14_a,11416058,Istruzioni,5,silent
+Debrief long,FM_14_a,11416058,sincronia,6,silent
+Debrief long,FM_14_a,11416058,gradimento,6,silent
+Debrief long,FM_14_a,11416058,listenmusic per day-quantised,3,silent
+Debrief long,FM_14_a,11416058,yearTrainingInstrument-quantised,1,silent
+Debrief long,FM_14_b,11416059,incontro,1,silent
+Debrief long,FM_14_b,11416059,Difficoltà,1,silent
+Debrief long,FM_14_b,11416059,Divertimento,6,silent
+Debrief long,FM_14_b,11416059,feedback-1,10,silent
+Debrief long,FM_14_b,11416059,feedback-2,9,silent
+Debrief long,FM_14_b,11416059,imbarazzo,5,silent
+Debrief long,FM_14_b,11416059,Istruzioni,4,silent
+Debrief long,FM_14_b,11416059,sincronia,4,silent
+Debrief long,FM_14_b,11416059,gradimento,7,silent
+Debrief long,FM_14_b,11416059,listenmusic per day-quantised,3,silent
+Debrief long,FM_14_b,11416059,yearTrainingInstrument-quantised,5,silent
+Debrief long,FM_15_a,11416060,incontro,1,silent
+Debrief long,FM_15_a,11416060,Difficoltà,3,silent
+Debrief long,FM_15_a,11416060,Divertimento,7,silent
+Debrief long,FM_15_a,11416060,feedback-1,10,silent
+Debrief long,FM_15_a,11416060,feedback-2,8,silent
+Debrief long,FM_15_a,11416060,imbarazzo,2,silent
+Debrief long,FM_15_a,11416060,Istruzioni,6,silent
+Debrief long,FM_15_a,11416060,sincronia,5,silent
+Debrief long,FM_15_a,11416060,gradimento,7,silent
+Debrief long,FM_15_a,11416060,listenmusic per day-quantised,2,silent
+Debrief long,FM_15_a,11416060,yearTrainingInstrument-quantised,5,silent
+Debrief long,FM_15_b,11416061,incontro,1,silent
+Debrief long,FM_15_b,11416061,Difficoltà,1,silent
+Debrief long,FM_15_b,11416061,Divertimento,4,silent
+Debrief long,FM_15_b,11416061,feedback-1,8,silent
+Debrief long,FM_15_b,11416061,feedback-2,3,silent
+Debrief long,FM_15_b,11416061,imbarazzo,2,silent
+Debrief long,FM_15_b,11416061,Istruzioni,7,silent
+Debrief long,FM_15_b,11416061,sincronia,5,silent
+Debrief long,FM_15_b,11416061,gradimento,5,silent
+Debrief long,FM_15_b,11416061,listenmusic per day-quantised,4,silent
+Debrief long,FM_15_b,11416061,yearTrainingInstrument-quantised,1,silent
+Debrief long,FM_17_a,12045475,incontro,1,mus
+Debrief long,FM_17_a,12045475,Difficoltà,1,mus
+Debrief long,FM_17_a,12045475,Divertimento,6,mus
+Debrief long,FM_17_a,12045475,feedback-1,7,mus
+Debrief long,FM_17_a,12045475,feedback-2,10,mus
+Debrief long,FM_17_a,12045475,imbarazzo,1,mus
+Debrief long,FM_17_a,12045475,Istruzioni,7,mus
+Debrief long,FM_17_a,12045475,sincronia,6,mus
+Debrief long,FM_17_a,12045475,gradimento,7,mus
+Debrief long,FM_17_a,12045475,listenmusic per day-quantised,3,mus
+Debrief long,FM_17_a,12045475,yearTrainingInstrument-quantised,1,mus
+Debrief long,FM_17_b,12045494,incontro,1,mus
+Debrief long,FM_17_b,12045494,Difficoltà,3,mus
+Debrief long,FM_17_b,12045494,Divertimento,5,mus
+Debrief long,FM_17_b,12045494,feedback-1,9,mus
+Debrief long,FM_17_b,12045494,feedback-2,5,mus
+Debrief long,FM_17_b,12045494,imbarazzo,2,mus
+Debrief long,FM_17_b,12045494,Istruzioni,5,mus
+Debrief long,FM_17_b,12045494,sincronia,4,mus
+Debrief long,FM_17_b,12045494,gradimento,6,mus
+Debrief long,FM_17_b,12045494,listenmusic per day-quantised,7,mus
+Debrief long,FM_17_b,12045494,yearTrainingInstrument-quantised,1,mus
+Debrief long,FM_18_a,12045476,incontro,1,isot
+Debrief long,FM_18_a,12045476,Difficoltà,1,isot
+Debrief long,FM_18_a,12045476,Divertimento,5,isot
+Debrief long,FM_18_a,12045476,feedback-1,10,isot
+Debrief long,FM_18_a,12045476,feedback-2,5,isot
+Debrief long,FM_18_a,12045476,imbarazzo,1,isot
+Debrief long,FM_18_a,12045476,Istruzioni,6,isot
+Debrief long,FM_18_a,12045476,sincronia,5,isot
+Debrief long,FM_18_a,12045476,gradimento,7,isot
+Debrief long,FM_18_a,12045476,listenmusic per day-quantised,6,isot
+Debrief long,FM_18_a,12045476,yearTrainingInstrument-quantised,1,isot
+Debrief long,FM_18_b,12045495,incontro,3,isot
+Debrief long,FM_18_b,12045495,Difficoltà,1,isot
+Debrief long,FM_18_b,12045495,Divertimento,7,isot
+Debrief long,FM_18_b,12045495,feedback-1,10,isot
+Debrief long,FM_18_b,12045495,feedback-2,7,isot
+Debrief long,FM_18_b,12045495,imbarazzo,1,isot
+Debrief long,FM_18_b,12045495,Istruzioni,7,isot
+Debrief long,FM_18_b,12045495,sincronia,4,isot
+Debrief long,FM_18_b,12045495,gradimento,7,isot
+Debrief long,FM_18_b,12045495,listenmusic per day-quantised,4,isot
+Debrief long,FM_18_b,12045495,yearTrainingInstrument-quantised,3,isot
+Debrief long,FM_19_a,12045477,incontro,1,isot
+Debrief long,FM_19_a,12045477,Difficoltà,5,isot
+Debrief long,FM_19_a,12045477,Divertimento,7,isot
+Debrief long,FM_19_a,12045477,feedback-1,9,isot
+Debrief long,FM_19_a,12045477,feedback-2,9,isot
+Debrief long,FM_19_a,12045477,imbarazzo,2,isot
+Debrief long,FM_19_a,12045477,Istruzioni,5,isot
+Debrief long,FM_19_a,12045477,sincronia,6,isot
+Debrief long,FM_19_a,12045477,gradimento,6,isot
+Debrief long,FM_19_a,12045477,listenmusic per day-quantised,4,isot
+Debrief long,FM_19_a,12045477,yearTrainingInstrument-quantised,1,isot
+Debrief long,FM_19_b,12045496,incontro,5,isot
+Debrief long,FM_19_b,12045496,Difficoltà,2,isot
+Debrief long,FM_19_b,12045496,Divertimento,6,isot
+Debrief long,FM_19_b,12045496,feedback-1,10,isot
+Debrief long,FM_19_b,12045496,feedback-2,8,isot
+Debrief long,FM_19_b,12045496,imbarazzo,1,isot
+Debrief long,FM_19_b,12045496,Istruzioni,7,isot
+Debrief long,FM_19_b,12045496,sincronia,6,isot
+Debrief long,FM_19_b,12045496,gradimento,7,isot
+Debrief long,FM_19_b,12045496,listenmusic per day-quantised,1,isot
+Debrief long,FM_19_b,12045496,yearTrainingInstrument-quantised,1,isot
+Debrief long,FM_1_a,11416048,incontro,1,isot
+Debrief long,FM_1_a,11416048,Difficoltà,1,isot
+Debrief long,FM_1_a,11416048,Divertimento,6,isot
+Debrief long,FM_1_a,11416048,feedback-1,10,isot
+Debrief long,FM_1_a,11416048,feedback-2,6,isot
+Debrief long,FM_1_a,11416048,imbarazzo,2,isot
+Debrief long,FM_1_a,11416048,Istruzioni,6,isot
+Debrief long,FM_1_a,11416048,sincronia,7,isot
+Debrief long,FM_1_a,11416048,gradimento,7,isot
+Debrief long,FM_1_a,11416048,listenmusic per day-quantised,5,isot
+Debrief long,FM_1_a,11416048,yearTrainingInstrument-quantised,4,isot
+Debrief long,FM_1_b,11416049,incontro,2,isot
+Debrief long,FM_1_b,11416049,Difficoltà,2,isot
+Debrief long,FM_1_b,11416049,Divertimento,5,isot
+Debrief long,FM_1_b,11416049,feedback-1,10,isot
+Debrief long,FM_1_b,11416049,feedback-2,6,isot
+Debrief long,FM_1_b,11416049,imbarazzo,2,isot
+Debrief long,FM_1_b,11416049,Istruzioni,6,isot
+Debrief long,FM_1_b,11416049,sincronia,5,isot
+Debrief long,FM_1_b,11416049,gradimento,6,isot
+Debrief long,FM_1_b,11416049,listenmusic per day-quantised,2,isot
+Debrief long,FM_1_b,11416049,yearTrainingInstrument-quantised,1,isot
+Debrief long,FM_2_a,11416062,incontro,1,mus
+Debrief long,FM_2_a,11416062,Difficoltà,2,mus
+Debrief long,FM_2_a,11416062,Divertimento,5,mus
+Debrief long,FM_2_a,11416062,feedback-1,3,mus
+Debrief long,FM_2_a,11416062,feedback-2,10,mus
+Debrief long,FM_2_a,11416062,imbarazzo,2,mus
+Debrief long,FM_2_a,11416062,Istruzioni,5,mus
+Debrief long,FM_2_a,11416062,sincronia,5,mus
+Debrief long,FM_2_a,11416062,gradimento,6,mus
+Debrief long,FM_2_a,11416062,listenmusic per day-quantised,2,mus
+Debrief long,FM_2_a,11416062,yearTrainingInstrument-quantised,1,mus
+Debrief long,FM_2_b,11416063,incontro,1,mus
+Debrief long,FM_2_b,11416063,Difficoltà,2,mus
+Debrief long,FM_2_b,11416063,Divertimento,7,mus
+Debrief long,FM_2_b,11416063,feedback-1,10,mus
+Debrief long,FM_2_b,11416063,feedback-2,9,mus
+Debrief long,FM_2_b,11416063,imbarazzo,1,mus
+Debrief long,FM_2_b,11416063,Istruzioni,7,mus
+Debrief long,FM_2_b,11416063,sincronia,6,mus
+Debrief long,FM_2_b,11416063,gradimento,7,mus
+Debrief long,FM_2_b,11416063,listenmusic per day-quantised,3,mus
+Debrief long,FM_2_b,11416063,yearTrainingInstrument-quantised,1,mus
+Debrief long (EN),FM_3_a,11403265,meeting,1,mus
+Debrief long (EN),FM_3_a,11403265,difficulty,2,mus
+Debrief long (EN),FM_3_a,11403265,fun,7,mus
+Debrief long (EN),FM_3_a,11403265,feedback-1,10,mus
+Debrief long (EN),FM_3_a,11403265,feedback-2,7,mus
+Debrief long (EN),FM_3_a,11403265,embarassment,1,mus
+Debrief long (EN),FM_3_a,11403265,instructions,7,mus
+Debrief long (EN),FM_3_a,11403265,synch,5,mus
+Debrief long (EN),FM_3_a,11403265,enjoyment,7,mus
+Debrief long (EN),FM_3_a,11403265,listenmusic per day-quantised,6,mus
+Debrief long (EN),FM_3_a,11403265,yearTrainingInstrument-quantised,2,mus
+Debrief long (EN),FM_3_b,11403266,meeting,2,mus
+Debrief long (EN),FM_3_b,11403266,difficulty,1,mus
+Debrief long (EN),FM_3_b,11403266,fun,6,mus
+Debrief long (EN),FM_3_b,11403266,feedback-1,8,mus
+Debrief long (EN),FM_3_b,11403266,feedback-2,10,mus
+Debrief long (EN),FM_3_b,11403266,embarassment,1,mus
+Debrief long (EN),FM_3_b,11403266,instructions,7,mus
+Debrief long (EN),FM_3_b,11403266,synch,6,mus
+Debrief long (EN),FM_3_b,11403266,enjoyment,7,mus
+Debrief long (EN),FM_3_b,11403266,listenmusic per day-quantised,7,mus
+Debrief long (EN),FM_3_b,11403266,yearTrainingInstrument-quantised,2,mus
+Debrief long,FM_4_a,11416066,incontro,1,mus
+Debrief long,FM_4_a,11416066,Difficoltà,2,mus
+Debrief long,FM_4_a,11416066,Divertimento,7,mus
+Debrief long,FM_4_a,11416066,feedback-1,10,mus
+Debrief long,FM_4_a,11416066,feedback-2,6,mus
+Debrief long,FM_4_a,11416066,imbarazzo,4,mus
+Debrief long,FM_4_a,11416066,Istruzioni,6,mus
+Debrief long,FM_4_a,11416066,sincronia,5,mus
+Debrief long,FM_4_a,11416066,gradimento,7,mus
+Debrief long,FM_4_a,11416066,listenmusic per day-quantised,3,mus
+Debrief long,FM_4_a,11416066,yearTrainingInstrument-quantised,4,mus
+Debrief long,FM_4_b,11416067,incontro,2,mus
+Debrief long,FM_4_b,11416067,Difficoltà,2,mus
+Debrief long,FM_4_b,11416067,Divertimento,3,mus
+Debrief long,FM_4_b,11416067,feedback-1,7,mus
+Debrief long,FM_4_b,11416067,feedback-2,3,mus
+Debrief long,FM_4_b,11416067,imbarazzo,2,mus
+Debrief long,FM_4_b,11416067,Istruzioni,4,mus
+Debrief long,FM_4_b,11416067,sincronia,4,mus
+Debrief long,FM_4_b,11416067,gradimento,5,mus
+Debrief long,FM_4_b,11416067,listenmusic per day-quantised,4,mus
+Debrief long,FM_4_b,11416067,yearTrainingInstrument-quantised,3,mus
+Debrief long,FM_5_a,11416068,incontro,1,silent
+Debrief long,FM_5_a,11416068,Difficoltà,1,silent
+Debrief long,FM_5_a,11416068,Divertimento,1,silent
+Debrief long,FM_5_a,11416068,feedback-1,10,silent
+Debrief long,FM_5_a,11416068,feedback-2,1,silent
+Debrief long,FM_5_a,11416068,imbarazzo,2,silent
+Debrief long,FM_5_a,11416068,Istruzioni,7,silent
+Debrief long,FM_5_a,11416068,sincronia,5,silent
+Debrief long,FM_5_a,11416068,gradimento,1,silent
+Debrief long,FM_5_a,11416068,listenmusic per day-quantised,6,silent
+Debrief long,FM_5_a,11416068,yearTrainingInstrument-quantised,1,silent
+Debrief long,FM_5_b,11416069,incontro,1,silent
+Debrief long,FM_5_b,11416069,Difficoltà,1,silent
+Debrief long,FM_5_b,11416069,Divertimento,2,silent
+Debrief long,FM_5_b,11416069,feedback-1,10,silent
+Debrief long,FM_5_b,11416069,feedback-2,2,silent
+Debrief long,FM_5_b,11416069,imbarazzo,6,silent
+Debrief long,FM_5_b,11416069,Istruzioni,3,silent
+Debrief long,FM_5_b,11416069,sincronia,3,silent
+Debrief long,FM_5_b,11416069,gradimento,2,silent
+Debrief long,FM_5_b,11416069,listenmusic per day-quantised,4,silent
+Debrief long,FM_5_b,11416069,yearTrainingInstrument-quantised,1,silent
+Debrief long,FM_6_a,11416070,incontro,1,isot
+Debrief long,FM_6_a,11416070,Difficoltà,2,isot
+Debrief long,FM_6_a,11416070,Divertimento,5,isot
+Debrief long,FM_6_a,11416070,feedback-1,8,isot
+Debrief long,FM_6_a,11416070,feedback-2,4,isot
+Debrief long,FM_6_a,11416070,imbarazzo,2,isot
+Debrief long,FM_6_a,11416070,Istruzioni,6,isot
+Debrief long,FM_6_a,11416070,sincronia,5,isot
+Debrief long,FM_6_a,11416070,gradimento,7,isot
+Debrief long,FM_6_a,11416070,listenmusic per day-quantised,3,isot
+Debrief long,FM_6_a,11416070,yearTrainingInstrument-quantised,1,isot
+Debrief long,FM_6_b,11416071,incontro,1,isot
+Debrief long,FM_6_b,11416071,Difficoltà,1,isot
+Debrief long,FM_6_b,11416071,Divertimento,4,isot
+Debrief long,FM_6_b,11416071,feedback-1,9,isot
+Debrief long,FM_6_b,11416071,feedback-2,7,isot
+Debrief long,FM_6_b,11416071,imbarazzo,2,isot
+Debrief long,FM_6_b,11416071,Istruzioni,5,isot
+Debrief long,FM_6_b,11416071,sincronia,4,isot
+Debrief long,FM_6_b,11416071,gradimento,5,isot
+Debrief long,FM_6_b,11416071,listenmusic per day-quantised,2,isot
+Debrief long,FM_6_b,11416071,yearTrainingInstrument-quantised,4,isot
+Debrief long,FM_7_a,11416072,incontro,1,silent
+Debrief long,FM_7_a,11416072,Difficoltà,1,silent
+Debrief long,FM_7_a,11416072,Divertimento,5,silent
+Debrief long,FM_7_a,11416072,feedback-1,10,silent
+Debrief long,FM_7_a,11416072,feedback-2,1,silent
+Debrief long,FM_7_a,11416072,imbarazzo,1,silent
+Debrief long,FM_7_a,11416072,Istruzioni,7,silent
+Debrief long,FM_7_a,11416072,sincronia,5,silent
+Debrief long,FM_7_a,11416072,gradimento,6,silent
+Debrief long,FM_7_a,11416072,listenmusic per day-quantised,3,silent
+Debrief long,FM_7_a,11416072,yearTrainingInstrument-quantised,2,silent
+Debrief long,FM_7_b,11416073,incontro,1,silent
+Debrief long,FM_7_b,11416073,Difficoltà,1,silent
+Debrief long,FM_7_b,11416073,Divertimento,3,silent
+Debrief long,FM_7_b,11416073,feedback-1,9,silent
+Debrief long,FM_7_b,11416073,feedback-2,3,silent
+Debrief long,FM_7_b,11416073,imbarazzo,1,silent
+Debrief long,FM_7_b,11416073,Istruzioni,7,silent
+Debrief long,FM_7_b,11416073,sincronia,6,silent
+Debrief long,FM_7_b,11416073,gradimento,6,silent
+Debrief long,FM_7_b,11416073,listenmusic per day-quantised,3,silent
+Debrief long,FM_7_b,11416073,yearTrainingInstrument-quantised,1,silent
+Debrief long,FM_8_a,11416074,incontro,1,mus
+Debrief long,FM_8_a,11416074,Difficoltà,3,mus
+Debrief long,FM_8_a,11416074,Divertimento,6,mus
+Debrief long,FM_8_a,11416074,feedback-1,9,mus
+Debrief long,FM_8_a,11416074,feedback-2,5,mus
+Debrief long,FM_8_a,11416074,imbarazzo,3,mus
+Debrief long,FM_8_a,11416074,Istruzioni,7,mus
+Debrief long,FM_8_a,11416074,sincronia,4,mus
+Debrief long,FM_8_a,11416074,gradimento,6,mus
+Debrief long,FM_8_a,11416074,listenmusic per day-quantised,2,mus
+Debrief long,FM_8_a,11416074,yearTrainingInstrument-quantised,1,mus
+Debrief long,FM_8_b,11416075,incontro,1,mus
+Debrief long,FM_8_b,11416075,Difficoltà,1,mus
+Debrief long,FM_8_b,11416075,Divertimento,5,mus
+Debrief long,FM_8_b,11416075,feedback-1,6,mus
+Debrief long,FM_8_b,11416075,feedback-2,9,mus
+Debrief long,FM_8_b,11416075,imbarazzo,2,mus
+Debrief long,FM_8_b,11416075,Istruzioni,7,mus
+Debrief long,FM_8_b,11416075,sincronia,6,mus
+Debrief long,FM_8_b,11416075,gradimento,6,mus
+Debrief long,FM_8_b,11416075,listenmusic per day-quantised,5,mus
+Debrief long,FM_8_b,11416075,yearTrainingInstrument-quantised,1,mus
+Debrief long,FM_9_a,11416076,incontro,1,silent
+Debrief long,FM_9_a,11416076,Difficoltà,4,silent
+Debrief long,FM_9_a,11416076,Divertimento,7,silent
+Debrief long,FM_9_a,11416076,feedback-1,10,silent
+Debrief long,FM_9_a,11416076,feedback-2,8,silent
+Debrief long,FM_9_a,11416076,imbarazzo,1,silent
+Debrief long,FM_9_a,11416076,Istruzioni,7,silent
+Debrief long,FM_9_a,11416076,sincronia,6,silent
+Debrief long,FM_9_a,11416076,gradimento,7,silent
+Debrief long,FM_9_a,11416076,listenmusic per day-quantised,3,silent
+Debrief long,FM_9_a,11416076,yearTrainingInstrument-quantised,1,silent
+Debrief long,FM_9_b,11416077,incontro,1,silent
+Debrief long,FM_9_b,11416077,Difficoltà,2,silent
+Debrief long,FM_9_b,11416077,Divertimento,3,silent
+Debrief long,FM_9_b,11416077,feedback-1,7,silent
+Debrief long,FM_9_b,11416077,feedback-2,5,silent
+Debrief long,FM_9_b,11416077,imbarazzo,3,silent
+Debrief long,FM_9_b,11416077,Istruzioni,6,silent
+Debrief long,FM_9_b,11416077,sincronia,2,silent
+Debrief long,FM_9_b,11416077,gradimento,4,silent
+Debrief long,FM_9_b,11416077,listenmusic per day-quantised,3,silent
+Debrief long,FM_9_b,11416077,yearTrainingInstrument-quantised,2,silent
+Debrief long,MM_10_a,11416080,incontro,1,mus
+Debrief long,MM_10_a,11416080,Difficoltà,3,mus
+Debrief long,MM_10_a,11416080,Divertimento,6,mus
+Debrief long,MM_10_a,11416080,feedback-1,10,mus
+Debrief long,MM_10_a,11416080,feedback-2,6,mus
+Debrief long,MM_10_a,11416080,imbarazzo,1,mus
+Debrief long,MM_10_a,11416080,Istruzioni,5,mus
+Debrief long,MM_10_a,11416080,sincronia,5,mus
+Debrief long,MM_10_a,11416080,gradimento,6,mus
+Debrief long,MM_10_a,11416080,listenmusic per day-quantised,5,mus
+Debrief long,MM_10_a,11416080,yearTrainingInstrument-quantised,1,mus
+Debrief long,MM_10_b,11416081,incontro,1,mus
+Debrief long,MM_10_b,11416081,Difficoltà,1,mus
+Debrief long,MM_10_b,11416081,Divertimento,6,mus
+Debrief long,MM_10_b,11416081,feedback-1,7,mus
+Debrief long,MM_10_b,11416081,feedback-2,7,mus
+Debrief long,MM_10_b,11416081,imbarazzo,1,mus
+Debrief long,MM_10_b,11416081,Istruzioni,7,mus
+Debrief long,MM_10_b,11416081,sincronia,5,mus
+Debrief long,MM_10_b,11416081,gradimento,7,mus
+Debrief long,MM_10_b,11416081,listenmusic per day-quantised,7,mus
+Debrief long,MM_10_b,11416081,yearTrainingInstrument-quantised,1,mus
+Debrief long,MM_11_a,11416082,incontro,2,mus
+Debrief long,MM_11_a,11416082,Difficoltà,3,mus
+Debrief long,MM_11_a,11416082,Divertimento,7,mus
+Debrief long,MM_11_a,11416082,feedback-1,9,mus
+Debrief long,MM_11_a,11416082,feedback-2,6,mus
+Debrief long,MM_11_a,11416082,imbarazzo,2,mus
+Debrief long,MM_11_a,11416082,Istruzioni,6,mus
+Debrief long,MM_11_a,11416082,sincronia,5,mus
+Debrief long,MM_11_a,11416082,gradimento,7,mus
+Debrief long,MM_11_a,11416082,listenmusic per day-quantised,6,mus
+Debrief long,MM_11_a,11416082,yearTrainingInstrument-quantised,1,mus
+Debrief long,MM_11_b,11416083,incontro,1,mus
+Debrief long,MM_11_b,11416083,Difficoltà,1,mus
+Debrief long,MM_11_b,11416083,Divertimento,7,mus
+Debrief long,MM_11_b,11416083,feedback-1,10,mus
+Debrief long,MM_11_b,11416083,feedback-2,10,mus
+Debrief long,MM_11_b,11416083,imbarazzo,1,mus
+Debrief long,MM_11_b,11416083,Istruzioni,7,mus
+Debrief long,MM_11_b,11416083,sincronia,6,mus
+Debrief long,MM_11_b,11416083,gradimento,7,mus
+Debrief long,MM_11_b,11416083,listenmusic per day-quantised,6,mus
+Debrief long,MM_11_b,11416083,yearTrainingInstrument-quantised,1,mus
+Debrief long,MM_12_a,11416084,incontro,1,silent
+Debrief long,MM_12_a,11416084,Difficoltà,2,silent
+Debrief long,MM_12_a,11416084,Divertimento,5,silent
+Debrief long,MM_12_a,11416084,feedback-1,8,silent
+Debrief long,MM_12_a,11416084,feedback-2,4,silent
+Debrief long,MM_12_a,11416084,imbarazzo,1,silent
+Debrief long,MM_12_a,11416084,Istruzioni,5,silent
+Debrief long,MM_12_a,11416084,sincronia,5,silent
+Debrief long,MM_12_a,11416084,gradimento,5,silent
+Debrief long,MM_12_a,11416084,listenmusic per day-quantised,3,silent
+Debrief long,MM_12_a,11416084,yearTrainingInstrument-quantised,3,silent
+Debrief long,MM_12_b,11416085,incontro,1,silent
+Debrief long,MM_12_b,11416085,Difficoltà,1,silent
+Debrief long,MM_12_b,11416085,Divertimento,2,silent
+Debrief long,MM_12_b,11416085,feedback-1,8,silent
+Debrief long,MM_12_b,11416085,feedback-2,1,silent
+Debrief long,MM_12_b,11416085,imbarazzo,2,silent
+Debrief long,MM_12_b,11416085,Istruzioni,7,silent
+Debrief long,MM_12_b,11416085,sincronia,5,silent
+Debrief long,MM_12_b,11416085,gradimento,2,silent
+Debrief long,MM_12_b,11416085,listenmusic per day-quantised,6,silent
+Debrief long,MM_12_b,11416085,yearTrainingInstrument-quantised,1,silent
+Debrief long,MM_13_a,11416086,incontro,1,silent
+Debrief long,MM_13_a,11416086,Difficoltà,1,silent
+Debrief long,MM_13_a,11416086,Divertimento,3,silent
+Debrief long,MM_13_a,11416086,feedback-1,9,silent
+Debrief long,MM_13_a,11416086,feedback-2,3,silent
+Debrief long,MM_13_a,11416086,imbarazzo,4,silent
+Debrief long,MM_13_a,11416086,Istruzioni,7,silent
+Debrief long,MM_13_a,11416086,sincronia,6,silent
+Debrief long,MM_13_a,11416086,gradimento,6,silent
+Debrief long,MM_13_a,11416086,listenmusic per day-quantised,3,silent
+Debrief long,MM_13_a,11416086,yearTrainingInstrument-quantised,1,silent
+Debrief long,MM_13_b,11416087,incontro,1,silent
+Debrief long,MM_13_b,11416087,Difficoltà,3,silent
+Debrief long,MM_13_b,11416087,Divertimento,5,silent
+Debrief long,MM_13_b,11416087,feedback-1,9,silent
+Debrief long,MM_13_b,11416087,feedback-2,2,silent
+Debrief long,MM_13_b,11416087,imbarazzo,1,silent
+Debrief long,MM_13_b,11416087,Istruzioni,6,silent
+Debrief long,MM_13_b,11416087,sincronia,5,silent
+Debrief long,MM_13_b,11416087,gradimento,5,silent
+Debrief long,MM_13_b,11416087,listenmusic per day-quantised,3,silent
+Debrief long,MM_13_b,11416087,yearTrainingInstrument-quantised,1,silent
+Debrief long,MM_14_a,11416088,incontro,1,mus
+Debrief long,MM_14_a,11416088,Difficoltà,2,mus
+Debrief long,MM_14_a,11416088,Divertimento,3,mus
+Debrief long,MM_14_a,11416088,feedback-1,8,mus
+Debrief long,MM_14_a,11416088,feedback-2,7,mus
+Debrief long,MM_14_a,11416088,imbarazzo,1,mus
+Debrief long,MM_14_a,11416088,Istruzioni,6,mus
+Debrief long,MM_14_a,11416088,sincronia,4,mus
+Debrief long,MM_14_a,11416088,gradimento,5,mus
+Debrief long,MM_14_a,11416088,listenmusic per day-quantised,5,mus
+Debrief long,MM_14_a,11416088,yearTrainingInstrument-quantised,1,mus
+Debrief long,MM_14_b,11416089,incontro,1,mus
+Debrief long,MM_14_b,11416089,Difficoltà,2,mus
+Debrief long,MM_14_b,11416089,Divertimento,4,mus
+Debrief long,MM_14_b,11416089,feedback-1,10,mus
+Debrief long,MM_14_b,11416089,feedback-2,2,mus
+Debrief long,MM_14_b,11416089,imbarazzo,4,mus
+Debrief long,MM_14_b,11416089,Istruzioni,7,mus
+Debrief long,MM_14_b,11416089,sincronia,5,mus
+Debrief long,MM_14_b,11416089,gradimento,4,mus
+Debrief long,MM_14_b,11416089,listenmusic per day-quantised,2,mus
+Debrief long,MM_14_b,11416089,yearTrainingInstrument-quantised,4,mus
+Debrief long,MM_15_a,11416090,incontro,1,silent
+Debrief long,MM_15_a,11416090,Difficoltà,2,silent
+Debrief long,MM_15_a,11416090,Divertimento,6,silent
+Debrief long,MM_15_a,11416090,feedback-1,10,silent
+Debrief long,MM_15_a,11416090,feedback-2,1,silent
+Debrief long,MM_15_a,11416090,imbarazzo,2,silent
+Debrief long,MM_15_a,11416090,Istruzioni,6,silent
+Debrief long,MM_15_a,11416090,sincronia,5,silent
+Debrief long,MM_15_a,11416090,gradimento,7,silent
+Debrief long,MM_15_a,11416090,listenmusic per day-quantised,3,silent
+Debrief long,MM_15_a,11416090,yearTrainingInstrument-quantised,1,silent
+Debrief long,MM_15_b,11416091,incontro,1,silent
+Debrief long,MM_15_b,11416091,Difficoltà,1,silent
+Debrief long,MM_15_b,11416091,Divertimento,7,silent
+Debrief long,MM_15_b,11416091,feedback-1,10,silent
+Debrief long,MM_15_b,11416091,feedback-2,5,silent
+Debrief long,MM_15_b,11416091,imbarazzo,3,silent
+Debrief long,MM_15_b,11416091,Istruzioni,7,silent
+Debrief long,MM_15_b,11416091,sincronia,5,silent
+Debrief long,MM_15_b,11416091,gradimento,7,silent
+Debrief long,MM_15_b,11416091,listenmusic per day-quantised,4,silent
+Debrief long,MM_15_b,11416091,yearTrainingInstrument-quantised,1,silent
+Debrief long,MM_16_a,12045479,incontro,1,isot
+Debrief long,MM_16_a,12045479,Difficoltà,3,isot
+Debrief long,MM_16_a,12045479,Divertimento,5,isot
+Debrief long,MM_16_a,12045479,feedback-1,9,isot
+Debrief long,MM_16_a,12045479,feedback-2,4,isot
+Debrief long,MM_16_a,12045479,imbarazzo,2,isot
+Debrief long,MM_16_a,12045479,Istruzioni,6,isot
+Debrief long,MM_16_a,12045479,sincronia,6,isot
+Debrief long,MM_16_a,12045479,gradimento,6,isot
+Debrief long,MM_16_a,12045479,listenmusic per day-quantised,2,isot
+Debrief long,MM_16_a,12045479,yearTrainingInstrument-quantised,1,isot
+Debrief long,MM_16_b,12045498,incontro,1,isot
+Debrief long,MM_16_b,12045498,Difficoltà,4,isot
+Debrief long,MM_16_b,12045498,Divertimento,6,isot
+Debrief long,MM_16_b,12045498,feedback-1,5,isot
+Debrief long,MM_16_b,12045498,feedback-2,6,isot
+Debrief long,MM_16_b,12045498,imbarazzo,1,isot
+Debrief long,MM_16_b,12045498,Istruzioni,7,isot
+Debrief long,MM_16_b,12045498,sincronia,5,isot
+Debrief long,MM_16_b,12045498,gradimento,7,isot
+Debrief long,MM_16_b,12045498,listenmusic per day-quantised,5,isot
+Debrief long,MM_16_b,12045498,yearTrainingInstrument-quantised,1,isot
+Debrief long,MM_17_a,12045480,incontro,1,isot
+Debrief long,MM_17_a,12045480,Difficoltà,2,isot
+Debrief long,MM_17_a,12045480,Divertimento,6,isot
+Debrief long,MM_17_a,12045480,feedback-1,8,isot
+Debrief long,MM_17_a,12045480,feedback-2,5,isot
+Debrief long,MM_17_a,12045480,imbarazzo,1,isot
+Debrief long,MM_17_a,12045480,Istruzioni,6,isot
+Debrief long,MM_17_a,12045480,sincronia,5,isot
+Debrief long,MM_17_a,12045480,gradimento,7,isot
+Debrief long,MM_17_a,12045480,listenmusic per day-quantised,6,isot
+Debrief long,MM_17_a,12045480,yearTrainingInstrument-quantised,4,isot
+Debrief long,MM_17_b,12045499,incontro,1,isot
+Debrief long,MM_17_b,12045499,Difficoltà,2,isot
+Debrief long,MM_17_b,12045499,Divertimento,5,isot
+Debrief long,MM_17_b,12045499,feedback-1,10,isot
+Debrief long,MM_17_b,12045499,feedback-2,1,isot
+Debrief long,MM_17_b,12045499,imbarazzo,1,isot
+Debrief long,MM_17_b,12045499,Istruzioni,7,isot
+Debrief long,MM_17_b,12045499,sincronia,5,isot
+Debrief long,MM_17_b,12045499,gradimento,4,isot
+Debrief long,MM_17_b,12045499,listenmusic per day-quantised,3,isot
+Debrief long,MM_17_b,12045499,yearTrainingInstrument-quantised,1,isot
+Debrief long,MM_18_a,12045481,incontro,1,mus
+Debrief long,MM_18_a,12045481,Difficoltà,4,mus
+Debrief long,MM_18_a,12045481,Divertimento,5,mus
+Debrief long,MM_18_a,12045481,feedback-1,10,mus
+Debrief long,MM_18_a,12045481,feedback-2,9,mus
+Debrief long,MM_18_a,12045481,imbarazzo,4,mus
+Debrief long,MM_18_a,12045481,Istruzioni,6,mus
+Debrief long,MM_18_a,12045481,sincronia,5,mus
+Debrief long,MM_18_a,12045481,gradimento,5,mus
+Debrief long,MM_18_a,12045481,listenmusic per day-quantised,2,mus
+Debrief long,MM_18_a,12045481,yearTrainingInstrument-quantised,5,mus
+Debrief long,MM_18_b,12045500,incontro,1,mus
+Debrief long,MM_18_b,12045500,Difficoltà,3,mus
+Debrief long,MM_18_b,12045500,Divertimento,2,mus
+Debrief long,MM_18_b,12045500,feedback-1,6,mus
+Debrief long,MM_18_b,12045500,feedback-2,8,mus
+Debrief long,MM_18_b,12045500,imbarazzo,2,mus
+Debrief long,MM_18_b,12045500,Istruzioni,5,mus
+Debrief long,MM_18_b,12045500,sincronia,2,mus
+Debrief long,MM_18_b,12045500,gradimento,4,mus
+Debrief long,MM_18_b,12045500,listenmusic per day-quantised,2,mus
+Debrief long,MM_18_b,12045500,yearTrainingInstrument-quantised,2,mus
+Debrief long,MM_1_a,11416078,incontro,1,silent
+Debrief long,MM_1_a,11416078,Difficoltà,5,silent
+Debrief long,MM_1_a,11416078,Divertimento,3,silent
+Debrief long,MM_1_a,11416078,feedback-1,10,silent
+Debrief long,MM_1_a,11416078,feedback-2,1,silent
+Debrief long,MM_1_a,11416078,imbarazzo,3,silent
+Debrief long,MM_1_a,11416078,Istruzioni,6,silent
+Debrief long,MM_1_a,11416078,sincronia,4,silent
+Debrief long,MM_1_a,11416078,gradimento,4,silent
+Debrief long,MM_1_a,11416078,listenmusic per day-quantised,5,silent
+Debrief long,MM_1_a,11416078,yearTrainingInstrument-quantised,1,silent
+Debrief long,MM_1_b,11416079,incontro,1,silent
+Debrief long,MM_1_b,11416079,Difficoltà,6,silent
+Debrief long,MM_1_b,11416079,Divertimento,5,silent
+Debrief long,MM_1_b,11416079,feedback-1,10,silent
+Debrief long,MM_1_b,11416079,feedback-2,6,silent
+Debrief long,MM_1_b,11416079,imbarazzo,2,silent
+Debrief long,MM_1_b,11416079,Istruzioni,7,silent
+Debrief long,MM_1_b,11416079,sincronia,7,silent
+Debrief long,MM_1_b,11416079,gradimento,5,silent
+Debrief long,MM_1_b,11416079,listenmusic per day-quantised,4,silent
+Debrief long,MM_1_b,11416079,yearTrainingInstrument-quantised,1,silent
+Debrief long,MM_2_a,11416092,incontro,2,mus
+Debrief long,MM_2_a,11416092,Difficoltà,5,mus
+Debrief long,MM_2_a,11416092,Divertimento,6,mus
+Debrief long,MM_2_a,11416092,feedback-1,7,mus
+Debrief long,MM_2_a,11416092,feedback-2,9,mus
+Debrief long,MM_2_a,11416092,imbarazzo,3,mus
+Debrief long,MM_2_a,11416092,Istruzioni,6,mus
+Debrief long,MM_2_a,11416092,sincronia,4,mus
+Debrief long,MM_2_a,11416092,gradimento,7,mus
+Debrief long,MM_2_a,11416092,listenmusic per day-quantised,7,mus
+Debrief long,MM_2_a,11416092,yearTrainingInstrument-quantised,5,mus
+Debrief long,MM_2_b,11416093,incontro,2,mus
+Debrief long,MM_2_b,11416093,Difficoltà,2,mus
+Debrief long,MM_2_b,11416093,Divertimento,5,mus
+Debrief long,MM_2_b,11416093,feedback-1,8,mus
+Debrief long,MM_2_b,11416093,feedback-2,9,mus
+Debrief long,MM_2_b,11416093,imbarazzo,1,mus
+Debrief long,MM_2_b,11416093,Istruzioni,7,mus
+Debrief long,MM_2_b,11416093,sincronia,5,mus
+Debrief long,MM_2_b,11416093,gradimento,7,mus
+Debrief long,MM_2_b,11416093,listenmusic per day-quantised,2,mus
+Debrief long,MM_2_b,11416093,yearTrainingInstrument-quantised,4,mus
+Debrief long,MM_3_a,11416094,incontro,1,isot
+Debrief long,MM_3_a,11416094,Difficoltà,5,isot
+Debrief long,MM_3_a,11416094,Divertimento,6,isot
+Debrief long,MM_3_a,11416094,feedback-1,10,isot
+Debrief long,MM_3_a,11416094,feedback-2,2,isot
+Debrief long,MM_3_a,11416094,imbarazzo,2,isot
+Debrief long,MM_3_a,11416094,Istruzioni,4,isot
+Debrief long,MM_3_a,11416094,sincronia,4,isot
+Debrief long,MM_3_a,11416094,gradimento,5,isot
+Debrief long,MM_3_a,11416094,listenmusic per day-quantised,3,isot
+Debrief long,MM_3_a,11416094,yearTrainingInstrument-quantised,4,isot
+Debrief long,MM_3_b,11416095,incontro,1,isot
+Debrief long,MM_3_b,11416095,Difficoltà,2,isot
+Debrief long,MM_3_b,11416095,Divertimento,5,isot
+Debrief long,MM_3_b,11416095,feedback-1,10,isot
+Debrief long,MM_3_b,11416095,feedback-2,8,isot
+Debrief long,MM_3_b,11416095,imbarazzo,3,isot
+Debrief long,MM_3_b,11416095,Istruzioni,6,isot
+Debrief long,MM_3_b,11416095,sincronia,6,isot
+Debrief long,MM_3_b,11416095,gradimento,4,isot
+Debrief long,MM_3_b,11416095,listenmusic per day-quantised,5,isot
+Debrief long,MM_3_b,11416095,yearTrainingInstrument-quantised,1,isot
+Debrief long,MM_4_a,11416096,incontro,1,mus
+Debrief long,MM_4_a,11416096,Difficoltà,5,mus
+Debrief long,MM_4_a,11416096,Divertimento,4,mus
+Debrief long,MM_4_a,11416096,feedback-1,10,mus
+Debrief long,MM_4_a,11416096,feedback-2,2,mus
+Debrief long,MM_4_a,11416096,imbarazzo,5,mus
+Debrief long,MM_4_a,11416096,Istruzioni,6,mus
+Debrief long,MM_4_a,11416096,sincronia,5,mus
+Debrief long,MM_4_a,11416096,gradimento,5,mus
+Debrief long,MM_4_a,11416096,listenmusic per day-quantised,1,mus
+Debrief long,MM_4_a,11416096,yearTrainingInstrument-quantised,4,mus
+Debrief long,MM_4_b,11416097,incontro,1,mus
+Debrief long,MM_4_b,11416097,Difficoltà,1,mus
+Debrief long,MM_4_b,11416097,Divertimento,7,mus
+Debrief long,MM_4_b,11416097,feedback-1,7,mus
+Debrief long,MM_4_b,11416097,feedback-2,5,mus
+Debrief long,MM_4_b,11416097,imbarazzo,1,mus
+Debrief long,MM_4_b,11416097,Istruzioni,6,mus
+Debrief long,MM_4_b,11416097,sincronia,6,mus
+Debrief long,MM_4_b,11416097,gradimento,7,mus
+Debrief long,MM_4_b,11416097,listenmusic per day-quantised,2,mus
+Debrief long,MM_4_b,11416097,yearTrainingInstrument-quantised,1,mus
+Debrief long,MM_5_a,11416098,incontro,1,isot
+Debrief long,MM_5_a,11416098,Difficoltà,4,isot
+Debrief long,MM_5_a,11416098,Divertimento,3,isot
+Debrief long,MM_5_a,11416098,feedback-1,10,isot
+Debrief long,MM_5_a,11416098,feedback-2,2,isot
+Debrief long,MM_5_a,11416098,imbarazzo,2,isot
+Debrief long,MM_5_a,11416098,Istruzioni,6,isot
+Debrief long,MM_5_a,11416098,sincronia,5,isot
+Debrief long,MM_5_a,11416098,gradimento,6,isot
+Debrief long,MM_5_a,11416098,listenmusic per day-quantised,5,isot
+Debrief long,MM_5_a,11416098,yearTrainingInstrument-quantised,3,isot
+Debrief long,MM_5_b,11416099,incontro,1,isot
+Debrief long,MM_5_b,11416099,Difficoltà,1,isot
+Debrief long,MM_5_b,11416099,Divertimento,3,isot
+Debrief long,MM_5_b,11416099,feedback-1,10,isot
+Debrief long,MM_5_b,11416099,feedback-2,5,isot
+Debrief long,MM_5_b,11416099,imbarazzo,1,isot
+Debrief long,MM_5_b,11416099,Istruzioni,7,isot
+Debrief long,MM_5_b,11416099,sincronia,6,isot
+Debrief long,MM_5_b,11416099,gradimento,6,isot
+Debrief long,MM_5_b,11416099,listenmusic per day-quantised,2,isot
+Debrief long,MM_5_b,11416099,yearTrainingInstrument-quantised,1,isot
+Debrief long,MM_6_a,11416100,incontro,1,isot
+Debrief long,MM_6_a,11416100,Difficoltà,1,isot
+Debrief long,MM_6_a,11416100,Divertimento,7,isot
+Debrief long,MM_6_a,11416100,feedback-1,7,isot
+Debrief long,MM_6_a,11416100,feedback-2,7,isot
+Debrief long,MM_6_a,11416100,imbarazzo,1,isot
+Debrief long,MM_6_a,11416100,Istruzioni,7,isot
+Debrief long,MM_6_a,11416100,sincronia,4,isot
+Debrief long,MM_6_a,11416100,gradimento,7,isot
+Debrief long,MM_6_a,11416100,listenmusic per day-quantised,2,isot
+Debrief long,MM_6_a,11416100,yearTrainingInstrument-quantised,1,isot
+Debrief long,MM_6_b,11416101,incontro,1,isot
+Debrief long,MM_6_b,11416101,Difficoltà,1,isot
+Debrief long,MM_6_b,11416101,Divertimento,4,isot
+Debrief long,MM_6_b,11416101,feedback-1,6,isot
+Debrief long,MM_6_b,11416101,feedback-2,6,isot
+Debrief long,MM_6_b,11416101,imbarazzo,3,isot
+Debrief long,MM_6_b,11416101,Istruzioni,3,isot
+Debrief long,MM_6_b,11416101,sincronia,6,isot
+Debrief long,MM_6_b,11416101,gradimento,6,isot
+Debrief long,MM_6_b,11416101,listenmusic per day-quantised,3,isot
+Debrief long,MM_6_b,11416101,yearTrainingInstrument-quantised,5,isot
+Debrief long,MM_7_a,11416102,incontro,1,silent
+Debrief long,MM_7_a,11416102,Difficoltà,2,silent
+Debrief long,MM_7_a,11416102,Divertimento,6,silent
+Debrief long,MM_7_a,11416102,feedback-1,10,silent
+Debrief long,MM_7_a,11416102,feedback-2,9,silent
+Debrief long,MM_7_a,11416102,imbarazzo,3,silent
+Debrief long,MM_7_a,11416102,Istruzioni,7,silent
+Debrief long,MM_7_a,11416102,sincronia,6,silent
+Debrief long,MM_7_a,11416102,gradimento,7,silent
+Debrief long,MM_7_a,11416102,listenmusic per day-quantised,1,silent
+Debrief long,MM_7_a,11416102,yearTrainingInstrument-quantised,1,silent
+Debrief long,MM_7_b,11416103,incontro,1,silent
+Debrief long,MM_7_b,11416103,Difficoltà,1,silent
+Debrief long,MM_7_b,11416103,Divertimento,3,silent
+Debrief long,MM_7_b,11416103,feedback-1,10,silent
+Debrief long,MM_7_b,11416103,feedback-2,1,silent
+Debrief long,MM_7_b,11416103,imbarazzo,4,silent
+Debrief long,MM_7_b,11416103,Istruzioni,3,silent
+Debrief long,MM_7_b,11416103,sincronia,4,silent
+Debrief long,MM_7_b,11416103,gradimento,3,silent
+Debrief long,MM_7_b,11416103,listenmusic per day-quantised,1,silent
+Debrief long,MM_7_b,11416103,yearTrainingInstrument-quantised,6,silent
+Debrief long,MM_8_a,11416104,incontro,1,isot
+Debrief long,MM_8_a,11416104,Difficoltà,5,isot
+Debrief long,MM_8_a,11416104,Divertimento,6,isot
+Debrief long,MM_8_a,11416104,feedback-1,8,isot
+Debrief long,MM_8_a,11416104,feedback-2,7,isot
+Debrief long,MM_8_a,11416104,imbarazzo,5,isot
+Debrief long,MM_8_a,11416104,Istruzioni,4,isot
+Debrief long,MM_8_a,11416104,sincronia,2,isot
+Debrief long,MM_8_a,11416104,gradimento,2,isot
+Debrief long,MM_8_a,11416104,listenmusic per day-quantised,2,isot
+Debrief long,MM_8_a,11416104,yearTrainingInstrument-quantised,4,isot
+Debrief long,MM_8_b,11416105,incontro,1,isot
+Debrief long,MM_8_b,11416105,Difficoltà,1,isot
+Debrief long,MM_8_b,11416105,Divertimento,5,isot
+Debrief long,MM_8_b,11416105,feedback-1,10,isot
+Debrief long,MM_8_b,11416105,feedback-2,7,isot
+Debrief long,MM_8_b,11416105,imbarazzo,1,isot
+Debrief long,MM_8_b,11416105,Istruzioni,7,isot
+Debrief long,MM_8_b,11416105,sincronia,6,isot
+Debrief long,MM_8_b,11416105,gradimento,7,isot
+Debrief long,MM_8_b,11416105,listenmusic per day-quantised,2,isot
+Debrief long,MM_8_b,11416105,yearTrainingInstrument-quantised,2,isot
+Debrief long,MM_9_a,11416106,incontro,1,silent
+Debrief long,MM_9_a,11416106,Difficoltà,1,silent
+Debrief long,MM_9_a,11416106,Divertimento,4,silent
+Debrief long,MM_9_a,11416106,feedback-1,10,silent
+Debrief long,MM_9_a,11416106,feedback-2,2,silent
+Debrief long,MM_9_a,11416106,imbarazzo,2,silent
+Debrief long,MM_9_a,11416106,Istruzioni,7,silent
+Debrief long,MM_9_a,11416106,sincronia,5,silent
+Debrief long,MM_9_a,11416106,gradimento,5,silent
+Debrief long,MM_9_a,11416106,listenmusic per day-quantised,3,silent
+Debrief long,MM_9_a,11416106,yearTrainingInstrument-quantised,5,silent
+Debrief long,MM_9_b,11416107,incontro,1,silent
+Debrief long,MM_9_b,11416107,Difficoltà,2,silent
+Debrief long,MM_9_b,11416107,Divertimento,2,silent
+Debrief long,MM_9_b,11416107,feedback-1,10,silent
+Debrief long,MM_9_b,11416107,feedback-2,1,silent
+Debrief long,MM_9_b,11416107,imbarazzo,5,silent
+Debrief long,MM_9_b,11416107,Istruzioni,5,silent
+Debrief long,MM_9_b,11416107,sincronia,4,silent
+Debrief long,MM_9_b,11416107,gradimento,1,silent
+Debrief long,MM_9_b,11416107,listenmusic per day-quantised,4,silent
+Debrief long,MM_9_b,11416107,yearTrainingInstrument-quantised,1,silent
